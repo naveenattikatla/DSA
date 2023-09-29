@@ -16,7 +16,7 @@
 
 1. we start from the extreme state  and compute result by using values that can be reach the destination i.e base condition
 
-# Tabulition
+# Tabulization
 
 1. we start from the base state  and compute results all the way till the extreme state.
 
